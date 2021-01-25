@@ -1,3 +1,15 @@
 p {
   font-family: Lato;
 }
+
+#Corps {
+  display: block;
+  margin-left: 20%;
+  position: absolute;
+  margin-top: 10%;
+}
+
+#Corps button {
+  margin-top: 20px;
+  padding: 20px;
+}
