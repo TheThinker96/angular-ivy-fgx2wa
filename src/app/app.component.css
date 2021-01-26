@@ -13,3 +13,10 @@ p {
   margin-top: 20px;
   padding: 20px;
 }
+
+#Pieds button {
+  position: fixed;
+  display: block;
+  top: 90%;
+  left: 80%;
+}
